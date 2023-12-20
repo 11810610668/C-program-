@@ -1,4 +1,4 @@
-[20/12, 10:51 am] Mahasri Ksr Clg: #include <stdio.h>
+ #include <stdio.h>
 #include <math.h>
 int main()
 {
@@ -9,7 +9,7 @@ int main()
 
     return 0;
 }
-[20/12, 10:51 am] Mahasri Ksr Clg: #include <stdio.h>
+ #include <stdio.h>
 void main()
 {
     int a;
@@ -24,7 +24,7 @@ void main()
       a=a+1;
       printf("\nincrement value is %d",a);
   }
-[20/12, 10:51 am] Mahasri Ksr Clg: #include <stdio.h>
+#include <stdio.h>
 void area ()
 {
     int a=5;
@@ -34,8 +34,7 @@ void area ()
 void main()
 {
     area();
-}
-[20/12, 10:51 am] Mahasri Ksr Clg: include <stdio.h>
+ include <stdio.h>
 void main()
 {
     int a;
@@ -49,8 +48,7 @@ void main()
   {
       *a=*a+1;
       printf("\nincrement value is %d",*a);
-  }
-[20/12, 10:51 am] Mahasri Ksr Clg: #include <stdio.h>
+   #include <stdio.h>
 int area (int a)
 {
     int c;
